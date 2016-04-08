@@ -19,4 +19,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/santos103g/proprietary/vendor/lib/hw/camera.vendor.santos10.so:system/vendor/lib/hw/camera.vendor.santos10.so \
     vendor/samsung/santos103g/proprietary/vendor/bin/gpsd:system/vendor/bin/gpsd \
     vendor/samsung/santos103g/proprietary/vendor/lib/hw/gps.santos10.so:system/vendor/lib/hw/gps.santos10.so \
-    vendor/samsung/santos103g/proprietary/vendor/lib/libwrappergps.so:system/vendor/lib/libwrappergps.so
+    vendor/samsung/santos103g/proprietary/vendor/lib/libwrappergps.so:system/vendor/lib/libwrappergps.so \
+    vendor/samsung/santos103g/proprietary/vendor/bin/cbd:system/vendor/bin/cbd \
+    vendor/samsung/santos103g/proprietary/vendor/lib/libsec-ril.so:system/vendor/lib/libsec-ril.so
